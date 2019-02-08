@@ -10,7 +10,9 @@
     width: auto;
   }
   
-
+  #social a {
+    display: inline;
+  }
 }
 
 @media only screen and (max-width: 900px) {
